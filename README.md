@@ -6,7 +6,7 @@ Each major project is maintained in its own dedicated repository with clean arch
 
 ---
 
-# 🟢 Phase 1 – Python Foundations (Completed)
+# 🟢 Phase 1 – Python Foundations
 
 ## ✅ Scientific Calculator CLI  
 **Modular scientific command-line calculator built using OOP principles.**  
@@ -28,32 +28,32 @@ Each major project is maintained in its own dedicated repository with clean arch
 🔗 Repository: [Expense Tracker CLI](https://github.com/giri-codes/expense-tracker-cli)
 
 ---
+# Phase 2 – Database & Data Analysis
 
-# 🟡 Phase 2 – Database & Data Analysis (In Progress)
-
-## ⏳ SQL Mini Project – E-Commerce Order Management System  
-**Relational database system designed to simulate a real-world e-commerce backend.**
+## ✅ SQL Project – E-Commerce Order Management System  
+Relational database system designed to simulate a real-world e-commerce backend.
 
 Includes:
 - Customers, Products, Orders, Order_Items, Payments, Categories  
-- Primary & Foreign Keys  
+- Primary & Foreign Key relationships  
 - INNER & LEFT JOIN operations  
 - GROUP BY & Aggregations  
-- Subqueries  
-- Revenue analysis & customer insights  
-- Business-focused SQL queries  
+- Subqueries & HAVING clause  
+- Monthly & category-based revenue analysis  
+- Business-focused SQL insights  
 
----
+🔗 Repository: [E-Commerce Order Management System](https://github.com/giri-codes/ecommerce-sql-order-management-system)
+
 
 ## ⏳ Data Analysis Project – E-Commerce Sales Insights  
-**Complete end-to-end data analysis workflow using a real-world dataset.**
+Complete end-to-end data analysis workflow using a real-world dataset.
 
 Includes:
 - Data Cleaning  
 - Missing Value Handling  
 - Pandas transformations  
 - GroupBy & Aggregations  
-- Data Visualization (Matplotlib/Seaborn)  
+- Data Visualization (Matplotlib / Seaborn)  
 - Trend analysis & business insight extraction  
 - Executive-level summary of findings  
 
