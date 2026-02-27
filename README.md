@@ -1,6 +1,6 @@
-# AI/ML Projects Portfolio :
+# Data Projects Portfolio
 
-This repository serves as the master index of my structured journey toward becoming a Machine Learning Engineer.
+This repository serves as the master index of my structured journey in data systems, analytics, and applied machine learning.
 
 Each major project is maintained in its own dedicated repository with clean architecture, proper documentation, and version control.
 
