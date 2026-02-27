@@ -6,7 +6,7 @@ Each major project is maintained in its own dedicated repository with clean arch
 
 ---
 
-# 🟢 Phase 1 – Python Foundations
+# Phase 1 – Python Foundations
 
 ## ✅ Scientific Calculator CLI  
 **Modular scientific command-line calculator built using OOP principles.**  
@@ -59,7 +59,7 @@ Includes:
 
 ---
 
-# 🔵 Phase 3 – Machine Learning & Deployment (Capstone Level)
+# Phase 3 – Machine Learning & Deployment (Capstone Level)
 
 ## ⏳ Regression Model – House Price Prediction  
 **End-to-end machine learning regression pipeline.**
