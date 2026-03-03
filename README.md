@@ -28,6 +28,7 @@ Each major project is maintained in its own dedicated repository with clean arch
 🔗 Repository: [Expense Tracker CLI](https://github.com/giri-codes/expense-tracker-cli)
 
 ---
+
 # Phase 2 – Database & Data Analysis
 
 ## ✅ SQL Project – E-Commerce Order Management System  
@@ -45,17 +46,22 @@ Includes:
 🔗 Repository: [E-Commerce Order Management System](https://github.com/giri-codes/ecommerce-sql-order-management-system)
 
 
-## ⏳ Data Analysis Project – E-Commerce Sales Insights  
-Complete end-to-end data analysis workflow using a real-world dataset.
+## ✅ Data Analysis Project – E-Commerce Sales Insights  
+End-to-end data analysis workflow using structured CSV datasets derived from a relational SQL database.
 
 Includes:
-- Data Cleaning  
-- Missing Value Handling  
-- Pandas transformations  
+- CSV-based dataset loading  
+- Data Cleaning & Missing Value Handling  
+- Multi-table data merging  
+- Revenue calculation (Quantity × Price)  
 - GroupBy & Aggregations  
-- Data Visualization (Matplotlib / Seaborn)  
-- Trend analysis & business insight extraction  
-- Executive-level summary of findings  
+- Customer & Product performance analysis  
+- Payment distribution analysis  
+- Data Visualization using Matplotlib  
+- Business insight summary  
+
+🔗 Repository: [E-Commerce Sales Insights](https://github.com/giri-codes/ecommerce-sales-insights-analysis)
+
 
 ---
 
