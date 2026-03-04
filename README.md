@@ -45,6 +45,7 @@ Includes:
 
 🔗 Repository: [E-Commerce Order Management System](https://github.com/giri-codes/ecommerce-sql-order-management-system)
 
+---
 
 ## ✅ Data Analysis Project – E-Commerce Sales Insights  
 End-to-end data analysis workflow using structured CSV datasets derived from a relational SQL database.
@@ -61,7 +62,6 @@ Includes:
 - Business insight summary  
 
 🔗 Repository: [E-Commerce Sales Insights](https://github.com/giri-codes/ecommerce-sales-insights-analysis)
-
 
 ---
 
