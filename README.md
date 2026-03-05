@@ -65,18 +65,23 @@ Includes:
 
 ---
 
-# Phase 3 – Machine Learning & Deployment (Capstone Level)
+# Phase 3 – Machine Learning Projects
 
-## ⏳ Regression Model – House Price Prediction  
-**End-to-end machine learning regression pipeline.**
+## ✅ Regression Model – Bengaluru House Price Prediction  
+
+Machine learning regression model that predicts property prices in Bengaluru based on housing features.
 
 Includes:
+- Data preprocessing and cleaning  
+- Feature selection  
 - Train/Test Split  
 - Feature Scaling  
-- Linear Regression  
-- Model Evaluation (MAE, MSE, R²)  
-- Performance interpretation  
-- Business impact explanation  
+- Linear Regression model training  
+- Model evaluation (MAE, MSE, R²)  
+- Actual vs Predicted visualization  
+- Real estate price estimation use case  
+
+🔗 Repository: [Bengaluru House Price Prediction](https://github.com/giri-codes/bengaluru-house-price-prediction)
 
 ---
 
@@ -100,7 +105,8 @@ Includes:
 - Build strong Python foundations  
 - Design real-world relational databases  
 - Perform business-oriented data analysis  
-- Develop practical machine learning systems  
-- Deploy ML models into production-ready APIs  
+- Develop practical machine learning systems
+
+---
 
 **Focus :** Depth over quantity. Clean architecture. Execution. Consistency.
