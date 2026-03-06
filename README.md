@@ -85,18 +85,21 @@ Includes:
 
 ---
 
-## ⏳ Classification Model – Customer Churn Prediction (Deployment Project)  
-**Production-oriented ML system with API deployment.**
+## ✅ Classification Model – Customer Churn Prediction  
+
+Machine learning classification model that predicts whether a customer will churn based on customer account and usage features.
 
 Includes:
-- Data Preprocessing  
-- Logistic Regression  
-- Confusion Matrix  
-- Precision, Recall & F1-Score  
-- ROC Curve Analysis  
-- Model Saving (pickle/joblib)  
-- Flask API Deployment  
-- API Testing via Postman  
+- Data preprocessing and cleaning  
+- Feature selection  
+- Train/Test Split  
+- Logistic Regression model training  
+- Model prediction  
+- Confusion Matrix evaluation  
+- Precision, Recall & F1-score analysis  
+- ROC Curve visualization  
+
+🔗 Repository: [Customer Churn Prediction](https://github.com/giri-codes/customer-churn-prediction)
 
 ---
 
